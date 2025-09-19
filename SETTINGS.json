@@ -1,0 +1,13 @@
+{
+  "RAW_DATA_DIR": "./data/raw/",
+  "PROCESSED_DATA_DIR": "./data/processed/",
+  "ASSETS_DIR": "./assets/",
+  "MODEL_DIR": "./models/",
+  "SUBMISSION_DIR": "./output/",
+
+  "TEST_CSV_PATH": "./data/raw/test.csv", 
+
+  "PROCESSED_TRAIN_DATA_PATH": "./data/processed/all_augmented_master.pt",
+  "SELECTED_FEATURES_PATH": "./assets/best_fp_indices.pkl",
+  "SUBMISSION_FILE": "./output/submission.csv"
+}

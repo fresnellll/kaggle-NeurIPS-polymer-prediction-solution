@@ -1,0 +1,13 @@
+.
+./assets
+./data
+./data/processed
+./data/raw
+./models
+./models/fold_0
+./models/fold_1
+./models/fold_2
+./models/fold_3
+./models/fold_4
+./output
+./src
